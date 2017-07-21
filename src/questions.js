@@ -5,750 +5,187 @@ module.exports = {
      * When editing your questions pay attention to your punctuation. Make sure you use question marks or periods.
      * Make sure the first answer is the correct one. Set at least ANSWER_COUNT answers, any extras will be shuffled in.
      */
-    "QUESTIONS_EN_GB" : [
-        {
-            "Reindeer have very thick coats, how many hairs per square inch do they have?": [
-                "13,000",
-                "1,200",
-                "5,000",
-                "700",
-                "1,000",
-                "120,000"
-            ]
-        },
-        {
-            "The 1964 classic Rudolph The Red Nosed Reindeer was filmed in. ": [
-                "Japan",
-                "United States",
-                "Finland",
-                "Germany",
-                "Canada",
-                "Norway",
-                "France"
-            ]
-        },
-        {
-            "Santas reindeer are cared for by one of the Christmas elves, what is his name?": [
-                "Wunorse Openslae",
-                "Alabaster Snowball",
-                "Bushy Evergreen",
-                "Pepper Minstix"
-            ]
-        },
-        {
-            "If all of Santas reindeer had antlers while pulling his Christmas sleigh, they would all be. ": [
-                "Girls",
-                "Boys",
-                "Girls and boys",
-                "No way to tell"
-            ]
-        },
-        {
-            "What do Reindeer eat?": [
-                "Lichen",
-                "Grasses",
-                "Leaves",
-                "Berries"
-            ]
-        },
-        {
-            "What of the following is not true?": [
-                "Caribou live on all continents",
-                "Both reindeer and Caribou are the same species",
-                "Caribou are bigger than reindeer",
-                "Reindeer live in Scandinavia and Russia"
-            ]
-        },
-        {
-            "In what year did Rudolph make his television debut?": [
-                "1964",
-                "1979",
-                "2000",
-                "1956"
-            ]
-        },
-        {
-            "Who was the voice of Rudolph in the 1964 classic?": [
-                "Billie Mae Richards",
-                "Burl Ives",
-                "Paul Soles",
-                "Lady Gaga"
-            ]
-        },
-        {
-            "In 1939 what retailer used the story of Rudolph the Red Nose Reindeer?": [
-                "Montgomery Ward",
-                "Sears",
-                "Macys",
-                "Kmart"
-            ]
-        },
-        {
-            "Santa\'s reindeer named Donner was originally named what?": [
-                "Dunder",
-                "Donny",
-                "Dweedle",
-                "Dreamy"
-            ]
-        },
-        {
-            "Who invented the story of Rudolph?": [
-                "Robert May",
-                "Johnny Marks",
-                "Santa",
-                "J.K. Rowling"
-            ]
-        },
-        {
-            "In what location will you not find reindeer?": [
-                "North Pole",
-                "Lapland",
-                "Korvatunturi mountain",
-                "Finland"
-            ]
-        },
-        {
-            "What Makes Santa\'s Reindeer Fly?": [
-                "Magical Reindeer Dust",
-                "Fusion",
-                "Amanita muscaria",
-                "Elves"
-            ]
-        },
-        {
-            "Including Rudolph, how many reindeer hooves are there?": [
-                "36",
-                "24",
-                "16",
-                "8"
-            ]
-        },
-        {
-            "Santa only has one female reindeer. Which one is it?": [
-                "Vixen",
-                "Clarice",
-                "Cupid",
-                "Cupid"
-            ]
-        },
-        {
-            "In the 1964 classic Rudolph The Red Nosed Reindeer, what was the snowman narrators name?": [
-                "Sam",
-                "Frosty",
-                "Burl",
-                "Snowy"
-            ]
-        },
-        {
-            "What was Rudolph\'s father\'s name?": [
-                "Donner",
-                "Dasher",
-                "Blixen",
-                "Comet"
-            ]
-        },
-        {
-            "In the 1964 movie, What was the name of the coach of the Reindeer Games?": [
-                "Comet",
-                "Blixen",
-                "Donner",
-                "Dasher"
-            ]
-        },
-        {
-            "In the 1964 movie, what is the name of the deer that Rudolph befriends at the reindeer games?": [
-                "Fireball",
-                "Clarice",
-                "Jumper",
-                "Vixen"
-            ]
-        },
-        {
-            "In the 1964 movie, How did Donner, Rudolph\'s father, try to hide Rudolph\'s nose?": [
-                "Black mud",
-                "Bag",
-                "Pillow case",
-                "Sock"
-            ]
-        },
-        {
-            "In the 1964 movie, what does the Misfit Elf want to be instead of a Santa Elf?": [
-                "Dentist",
-                "Reindeer",
-                "Toy maker",
-                "Candlestick maker"
-            ]
-        },
-        {
-            "In the 1964 movie,what was the Bumble\'s one weakness?": [
-                "Could not swim",
-                "Always hungry",
-                "Candy canes",
-                "Cross eyed"
-            ]
-        },
-        {
-            "In the 1964 movie, what is Yukon Cornelius really in search of?": [
-                "Peppermint",
-                "Gold",
-                "India",
-                "Polar Bears"
-            ]
-        },
-        {
-            "In the 1964 movie, why is the train on the Island of Misfit Toys?": [
-                "Square wheels",
-                "No Engine",
-                "Paint does not match",
-                "It does not toot"
-            ]
-        },
-        {
-            "In the 1964 movie, what is the name of the Jack in the Box?": [
-                "Charlie",
-                "Sam",
-                "Billy",
-                "Jack"
-            ]
-        },
-        {
-            "In the 1964 movie, why did Santa Claus almost cancel Christmas?": [
-                "Storm",
-                "No snow",
-                "No toys",
-                "The Reindeer were sick"
-            ]
-        },
-        {
-            "In the 1964 movie, what animal noise did the elf make to distract the Bumble?": [
-                "Oink",
-                "Growl",
-                "Bark",
-                "Meow"
-            ]
-        },
-        {
-            "In the 1964 movie, what is the name of the prospector?": [
-                "Yukon Cornelius",
-                "Slider Sam",
-                "Bumble",
-                "Jack"
-            ]
-        },
-        {
-            "How far do reindeer travel when they migrate?": [
-                "3000 miles",
-                "700 miles",
-                "500 miles",
-                "0 miles"
-            ]
-        },
-        {
-            "How fast can a reindeer run?": [
-                "48 miles per hour",
-                "17 miles per hour",
-                "19 miles per hour",
-                "14 miles per hour",
-                "52 miles per hour",
-                "41 miles per hour"
-            ]
-        }
-    ],
     "QUESTIONS_EN_US" : [
         {
-            "Reindeer have very thick coats, how many hairs per square inch do they have?": [
-                "13,000",
-                "1,200",
-                "5,000",
-                "700",
-                "1,000",
-                "120,000"
+            "What is Tequila made from?": [
+                "Agave tequilana",
+                "Cactus",
+                "Mezcal",
+                "Grapes",
+                "Potatos"
+            
             ]
         },
         {
-            "The 1964 classic Rudolph The Red Nosed Reindeer was filmed in. ": [
-                "Japan",
-                "United States",
-                "Finland",
-                "Germany",
-                "Canada",
-                "Norway",
-                "France"
+            "What percentage of aguamiel from the blue agave must be used in order to be considered a true tequila? ": [
+                "51%",
+                "75%",
+                "45%",
+                "98%",
+                "33%",
+                
             ]
         },
         {
-            "Santas reindeer are cared for by one of the Christmas elves, what is his name?": [
-                "Wunorse Openslae",
-                "Alabaster Snowball",
-                "Bushy Evergreen",
-                "Pepper Minstix"
+            "Of the 5 types of tequila, which is the most basic?": [
+                "Silver or Blanco",
+                "Reposado",
+                "Anejo",
+                "Extra Anejo",
+                "Oro or Gold"
             ]
         },
         {
-            "If all of Santas reindeer had antlers while pulling his Christmas sleigh, they would all be": [
-                "Girls",
-                "Boys",
-                "Girls and boys",
-                "No way to tell"
+            "Where does Tequila typically come from? ": [
+                "Jalisco",
+                "Tijuana",
+                "Mazatlan",
+                "Cancun",
+                "Mexico City"
             ]
         },
         {
-            "What do Reindeer eat?": [
-                "Lichen",
-                "Grasses",
-                "Leaves",
-                "Berries"
+            "How many years does it typically take for the Blue Agave to mature?": [
+                "8 years",
+                "1 year",
+                "10 plus years",
+                "5 years",
+                "3 years"
             ]
         },
         {
-            "What of the following is not true?": [
-                "Caribou live on all continents",
-                "Both reindeer and Caribou are the same species",
-                "Caribou are bigger than reindeer",
-                "Reindeer live in Scandinavia and Russia"
+            "What of the following is true about Tequila?": [
+                "All of the above",
+                "100% agave will reduce the risk of a hangover",
+                "It is a probiotic",
+                "It aids digestion",
+                "It can aid in weight loss"
             ]
         },
         {
-            "In what year did Rudolph make his television debut?": [
-                "1964",
-                "1979",
-                "2000",
-                "1956"
+            "Who sings the famous song Tequila in the Pee-Wee Herman movie?": [
+                "The Champs",
+                "The Eagles",
+                "Dave Matthews",
+                "50 Cent",
+                "Britney Spears"
             ]
         },
         {
-            "Who was the voice of Rudolph in the 1964 classic?": [
-                "Billie Mae Richards",
-                "Burl Ives",
-                "Paul Soles",
-                "Lady Gaga"
+            "Which tequila brand was the first introduced into the United States?": [
+                "Herradura",
+                "Patron",
+                "Don Julio",
+                "Jose Cuervo",
+                "Milagro"
             ]
         },
         {
-            "In 1939 what retailer used the story of Rudolph the Red Nose Reindeer?": [
-                "Montgomery Ward",
-                "Sears",
-                "Macys",
-                "Kmart"
+            "Which statement below is true?": [
+                "You can make synthetic diamonds with tequila",
+                "Tequila was in the Holy Grail",
+                "Mexico's national drink is Tequila",
+                "The agave plant is part of the pineapple family",
+                "Tequila usually includes a worm in the bottle"
             ]
         },
         {
-            "Santa\'s reindeer named Donner was originally named what?": [
-                "Dunder",
-                "Donny",
-                "Dweedle",
-                "Dreamy"
+            "According to The Guinness Book of World Records, how much did the most expensive bottle of tequila sell for?": [
+                "$225,000",
+                "$25,000",
+                "$500,000",
+                "$1,000,000",
+                "$115,000"
             ]
         },
         {
-            "Who invented the story of Rudolph?": [
-                "Robert May",
-                "Johnny Marks",
-                "Santa",
-                "J.K. Rowling"
+            "In Mexico, how is Tequila drank?": [
+                "Neat, without lime or salt",
+                "On the rocks",
+                "Straight from the bottle",
+                "In a flute",
+                "One shot at a time"
             ]
         },
         {
-            "In what location will you not find reindeer?": [
-                "North Pole",
-                "Lapland",
-                "Korvatunturi mountain",
-                "Finland"
+            "What are the 3 main categories of Tequila?": [
+                "Blanco, Reposado, Anejo",
+                "Reposado, Joven, Anejo",
+                "Anejo, Blanco, Extra Anejo",
+                "Negro, Verde, Anejo",
+                "Oro, Reposado, Blanco"
             ]
         },
         {
-            "What Makes Santa\'s Reindeer Fly?": [
-                "Magical Reindeer Dust",
-                "Fusion",
-                "Amanita muscaria",
-                "Elves"
+            "Where does Tequila get its name from?": [
+                "The town of Tequila",
+                "No one knows",
+                "The president of Mexico",
+                "The mezcal plant",
+                "It\'s the noise the worm makes when you put it in the bottle"
             ]
         },
         {
-            "Including Rudolph, how many reindeer hooves are there?": [
-                "36",
-                "24",
-                "16",
-                "8"
+            "Who owns Casamigos?": [
+                "George Clooney",
+                "Martin Short",
+                "Barrack Obama",
+                "Brad Pitt",
+                "Cristiano Ronaldo"
             ]
         },
         {
-            "Santa only has one female reindeer. Which one is it?": [
-                "Vixen",
-                "Clarice",
-                "Cupid",
-                "Cupid"
+            "How are Agave plants pollinated?": [
+                "Bats",
+                "Bees",
+                "Birds",
+                "Worms",
+                "Snakes"
             ]
         },
         {
-            "In the 1964 classic Rudolph The Red Nosed Reindeer, what was the snowman narrators name?": [
-                "Sam",
-                "Frosty",
-                "Burl",
-                "Snowy"
+            "During the 1920\'s what helped the popularity of Tequila rise in the United States?": [
+                "Prohibition",
+                "The end of WWI",
+                "Steel Strike Ends",
+                "Too much cotton",
+                "Nineteenth Amendment"
             ]
         },
         {
-            "What was Rudolph\'s father\'s name?": [
-                "Donner",
-                "Dasher",
-                "Blixen",
-                "Comet"
+            "What is the name of the machete used to harvest the Agave plant?": [
+                "Coa de Jima",
+                "Barong",
+                "Billhook",
+                "Cane",
+                "Hawkbill"
             ]
         },
         {
-            "In the 1964 movie, What was the name of the coach of the Reindeer Games?": [
-                "Comet",
-                "Blixen",
-                "Donner",
-                "Dasher"
+            "How much of the Agave plant is used to make tequila?": [
+                "Only the heart",
+                "The entire plant",
+                "Just the roots and leaves",
+                "Only the leaves",
+                "Only the roots"
             ]
         },
         {
-            "In the 1964 movie, what is the name of the deer that Rudolph befriends at the reindeer games?": [
-                "Fireball",
-                "Clarice",
-                "Jumper",
-                "Vixen"
+            "Approximately how many species are there of the Agave plant?": [
+                "136",
+                "200",
+                "55",
+                "33",
+                "17"
             ]
         },
         {
-            "In the 1964 movie, How did Donner, Rudolph\'s father, try to hide Rudolph\'s nose?": [
-                "Black mud",
-                "Bag",
-                "Pillow case",
-                "Sock"
-            ]
-        },
-        {
-            "In the 1964 movie, what does the Misfit Elf want to be instead of a Santa Elf?": [
-                "Dentist",
-                "Reindeer",
-                "Toy maker",
-                "Candlestick maker"
-            ]
-        },
-        {
-            "In the 1964 movie,what was the Bumble\'s one weakness?": [
-                "Could not swim",
-                "Always hungry",
-                "Candy canes",
-                "Cross eyed"
-            ]
-        },
-        {
-            "In the 1964 movie, what is Yukon Cornelius really in search of?": [
-                "Peppermint",
-                "Gold",
-                "India",
-                "Polar Bears"
-            ]
-        },
-        {
-            "In the 1964 movie, why is the train on the Island of Misfit Toys?": [
-                "Square wheels",
-                "No Engine",
-                "Paint does not match",
-                "It does not toot"
-            ]
-        },
-        {
-            "In the 1964 movie, what is the name of the Jack in the Box?": [
-                "Charlie",
-                "Sam",
-                "Billy",
-                "Jack"
-            ]
-        },
-        {
-            "In the 1964 movie, why did Santa Claus almost cancel Christmas?": [
-                "Storm",
-                "No snow",
-                "No toys",
-                "The Reindeer were sick"
-            ]
-        },
-        {
-            "In the 1964 movie, what animal noise did the elf make to distract the Bumble?": [
-                "Oink",
-                "Growl",
-                "Bark",
-                "Meow"
-            ]
-        },
-        {
-            "In the 1964 movie, what is the name of the prospector?": [
-                "Yukon Cornelius",
-                "Slider Sam",
-                "Bumble",
-                "Jack"
-            ]
-        },
-        {
-            "How far do reindeer travel when they migrate?": [
-                "3000 miles",
-                "700 miles",
-                "500 miles",
-                "0 miles"
-            ]
-        },
-        {
-            "How fast can a reindeer run?": [
-                "48 miles per hour",
-                "17 miles per hour",
-                "19 miles per hour",
-                "14 miles per hour",
-                "52 miles per hour",
-                "41 miles per hour"
-            ]
-        }
-    ],
-    "QUESTIONS_DE_DE" : [
-        {
-            "Rentiere haben ein sehr dickes Fell. Wie viele Haare pro Quadratzentimeter haben sie?": [
-                "13,000",
-                "1,200",
-                "5,000",
-                "700",
-                "1,000",
-                "120,000"
-            ]
-        },
-        {
-            "Der Klassiker aus dem Jahr 1964, Rudolph mit der roten Nase, wurde gedreht in. ": [
-                "Japan",
-                "USA",
-                "Finnland",
-                "Deutschland",
-                "Kanada",
-                "Norwegen",
-                "Frankreich"
-            ]
-        },
-        {
-            "Um die Rentiere des Weihnachtsmanns kümmert sich eine der Weihnachtselfen. Wie heißt sie?": [
-                "Wunorse Openslae",
-                "Alabaster Snowball",
-                "Bushy Evergreen",
-                "Pfeffer Minstix"
-            ]
-        },
-        {
-            "Wenn alle Rentiere des Weihnachtsmanns Geweihe hätten, während sie seinen Weihnachtsschlitten ziehen, wären sie alle. ": [
-                "Weiblich",
-                "Männlich",
-                "Weiblich und männlich",
-                "Kann man nicht sagen"
-            ]
-        },
-        {
-            "Was essen Rentiere?": [
-                "Flechten",
-                "Gras",
-                "Blätter",
-                "Beeren"
-            ]
-        },
-        {
-            "Welche Aussage ist nicht richtig?": [
-                "Karibus leben auf allen Kontinenten",
-                "Karibus und Rentiere gehören derselben Gattung an ",
-                "Karibus sind größer als Rentiere",
-                "Rentiere leben in Skandinavien und Russland"
-            ]
-        },
-        {
-            "In welchem Jahr kam Rudolph ins Fernsehen?": [
-                "1964",
-                "1979",
-                "2000",
-                "1956"
-            ]
-        },
-        {
-            "Wer war der Sprecher für Rudolph im klassischen Film aus dem Jahr 1964?": [
-                "Billie Mae Richards",
-                "Burl Ives",
-                "Paul Soles",
-                "Lady Gaga"
-            ]
-        },
-        {
-            "Welche Handelskette verwendete 1939 die Geschichte von Rudolph mit der roten Nase?": [
-                "Montgomery Ward",
-                "Sears",
-                "Macys",
-                "Kmart"
-            ]
-        },
-        {
-            "Wie hieß das Rentier des Weihnachtsmanns namens Donner ursprünglich?": [
-                "Dunder",
-                "Donny",
-                "Dweedle",
-                "Dreamy"
-            ]
-        },
-        {
-            "Wer hat die Geschichte von Rudolph erfunden?": [
-                "Robert May",
-                "Johnny Marks",
-                "Santa",
-                "J.K. Rowling"
-            ]
-        },
-        {
-            "Wo findest du keine Rentiere?": [
-                "Nordpol",
-                "Lappland",
-                "Korvatunturi-Berge",
-                "Finnland"
-            ]
-        },
-        {
-            "Warum können die Rentiere des Weihnachtsmanns fliegen?": [
-                "Magischer Staub der Rentiere",
-                "Fusion",
-                "Amanita muscaria",
-                "Elfen"
-            ]
-        },
-        {
-            "Wieviele Rentierhufe gibt es hier einschließlich Rudolph?": [
-                "36",
-                "24",
-                "16",
-                "8"
-            ]
-        },
-        {
-            "Der Weihnachtsmann hat nur ein weibliches Rentier. Wie heißt es?": [
-                "Blitzen",
-                "Clarice",
-                "Cupid",
-                "Cupid"
-            ]
-        },
-        {
-            "Wie war der Name des erzählenden Schneemanns im klassischen Film Rudolph mit der roten Nase aus dem Jahr 1964?": [
-                "Sam",
-                "Frosty",
-                "Burl",
-                "Snowy"
-            ]
-        },
-        {
-            "Wie hieß der Vater von Rudolph?": [
-                "Donner",
-                "Dasher",
-                "Blixen",
-                "Comet"
-            ]
-        },
-        {
-            "Wie war der Name des Trainers der Rentierspiele im klassischen Film aus dem Jahr 1964?": [
-                "Comet",
-                "Blixen",
-                "Donner",
-                "Dasher"
-            ]
-        },
-        {
-            "Wie war im klassichen Film aus 1964 der Name des Hirsches, mit dem sich Rudolph befreundete?": [
-                "Fireball",
-                "Clarice",
-                "Jumper",
-                "Vixen"
-            ]
-        },
-        {
-            "Wie hat der Vater von Rudolph, Donner, im Film aus dem Jahr 1964 versucht, die Nase von Rudolph zu verbergen?": [
-                "Schwarzer Schlamm",
-                "Sack",
-                "Kissenbezug",
-                "Socke"
-            ]
-        },
-        {
-            "Was möchte die Misfit-Elfe im Film aus dem Jahr 1964 werden anstatt eine Elfe für den Weihnachtsmann?": [
-                "Zahnarzt",
-                "Rentier",
-                "Spielzeugmacher",
-                "Kerzenmacher"
-            ]
-        },
-        {
-            "Was war die einzige Schwäche von Bumble im Film aus dem Jahr 1964?": [
-                "Konnte nicht schwimmen",
-                "War immer hungrig",
-                "Zuckerstangen",
-                "Schielte"
-            ]
-        },
-        {
-            "Was sucht Yukon Cornelius in Wirklichkeit im Film aus dem Jahr 1964?": [
-                "Pfefferminz",
-                "Gold",
-                "Indien",
-                "Polarbären"
-            ]
-        },
-        {
-            "Warum befindet sich der Zug im Film aus dem Jahr 1964 auf der Insel des fehlerhaften Spielzeugs?": [
-                "Viereckige Räder",
-                "Keine Dampfmaschine",
-                "Farbe stimmt nicht",
-                "Pfeift nicht"
-            ]
-        },
-        {
-            "Wie lautet der Name des Schachtelmännchens im Film aus dem Jahr 1964?": [
-                "Charlie",
-                "Sam",
-                "Billy",
-                "Jack"
-            ]
-        },
-        {
-            "Warum hat der Weihnachtsmann im Film aus dem Jahr 1964 Weihnachten beinahe abgesagt?": [
-                "Sturm",
-                "Kein Schnee",
-                "Kein Spielzeug",
-                "Die Rentiere waren krank"
-            ]
-        },
-        {
-            "Welches tierische Geräusch machte die Elfe im Film aus dem Jahr 1964, um den Bumble abzulenken?": [
-                "Oink",
-                "Knurr",
-                "Wauwau",
-                "Miau"
-            ]
-        },
-        {
-            "Wie lautet der Name des Goldsuchers im Film aus dem Jahr 1964?": [
-                "Yukon Cornelius",
-                "Slider Sam",
-                "Bumble",
-                "Jack"
-            ]
-        },
-        {
-            "Wie weit ziehen Rentiere auf ihren Wanderungen?": [
-                "4800 km",
-                "1100 km",
-                "800 km",
-                "0 km"
-            ]
-        },
-        {
-            "Wie schnell läuft ein Rentier?": [
-                "77 km pro Stunde",
-                "27 km pro Stunde",
-                "30 km pro Stunde",
-                "22 km pro Stunde",
-                "83 km pro Stunde",
-                "65 km pro Stunde"
+            "During the nineteen eighteen flu epidemic in Mexico, what did doctors recommend their patients to take as a remedy?": [
+                "Tequila, Lime and salt",
+                "Whiskey",
+                "Vodka",
+                "Wine",
+                "Burbon"
             ]
         }
     ]
